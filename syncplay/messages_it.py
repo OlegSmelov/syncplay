@@ -308,6 +308,7 @@ it = {
     "openstreamurl-menu-label": "Apri indirizzo di &rete",
     "setmediadirectories-menu-label": "Imposta &cartelle multimediali",
     "loadplaylistfromfile-menu-label": "&Load playlist from file",  # TODO: Translate
+    "shuffleplaylistfromfile-menu-label": "Load and shuffle playlist from file",  # TODO: Translate
     "saveplaylisttofile-menu-label": "&Save playlist to file",  # TODO: Translate
     "exit-menu-label": "&Esci",
     "advanced-menu-label": "&Avanzate",

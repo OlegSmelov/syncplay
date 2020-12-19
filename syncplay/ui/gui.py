@@ -739,7 +739,7 @@ class MainWindow(QtWidgets.QMainWindow):
         menu.addAction(QtGui.QPixmap(resourcespath + "world_add.png"), getMessage("addurlstoplaylist-menu-label"), lambda: self.OpenAddURIsToPlaylistDialog())
         menu.addSeparator()
         menu.addAction(getMessage("loadplaylistfromfile-menu-label"),lambda: self.OpenLoadPlaylistFromFileDialog()) # TODO: Add icon
-        menu.addAction("Load and shuffle playlist from file",lambda: self.OpenLoadPlaylistFromFileDialog(shuffle=True))  # TODO: Add icon and messages_en
+        menu.addAction(getMessage("shuffleplaylistfromfile-menu-label"),lambda: self.OpenLoadPlaylistFromFileDialog(shuffle=True))  # TODO: Add icon
         menu.addAction(getMessage("saveplaylisttofile-menu-label"),lambda: self.OpenSavePlaylistToFileDialog()) # TODO: Add icon
         menu.addSeparator()
         menu.addAction(QtGui.QPixmap(resourcespath + "film_folder_edit.png"), getMessage("setmediadirectories-menu-label"), lambda: self.openSetMediaDirectoriesDialog())

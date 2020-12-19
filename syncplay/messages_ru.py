@@ -308,6 +308,7 @@ ru = {
     "openstreamurl-menu-label": "Открыть &ссылку",
     "setmediadirectories-menu-label": "&Папки воспроизведения",
     "loadplaylistfromfile-menu-label": "&Загрузить список воспроизведения из файла",
+    "shuffleplaylistfromfile-menu-label": "Загрузить и перемешать список воспроизведения из файла",
     "saveplaylisttofile-menu-label": "&Сохранить список воспроизведения в файл",
     "exit-menu-label": "&Выход",
     "advanced-menu-label": "&Дополнительно",

@@ -308,6 +308,7 @@ es = {
     "openstreamurl-menu-label": "Abrir URL de &flujo de medios",
     "setmediadirectories-menu-label": "&Establecer directorios de medios",
     "loadplaylistfromfile-menu-label": "&Load playlist from file",  # TODO: Translate
+    "shuffleplaylistfromfile-menu-label": "Load and shuffle playlist from file",  # TODO: Translate
     "saveplaylisttofile-menu-label": "&Save playlist to file",  # TODO: Translate
     "exit-menu-label": "&Salir",
     "advanced-menu-label": "A&vanzado",

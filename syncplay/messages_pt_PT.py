@@ -307,6 +307,7 @@ pt_PT = {
     "openstreamurl-menu-label": "Abrir &URL de stream de mídia",
     "setmediadirectories-menu-label": "Definir &pastas de mídias",
     "loadplaylistfromfile-menu-label": "&Carregar playlist de ficheiro",
+    "shuffleplaylistfromfile-menu-label": "Load and shuffle playlist from file",  # TODO: Translate
     "saveplaylisttofile-menu-label": "&Salvar playlist em ficheiro",
     "exit-menu-label": "&Sair",
     "advanced-menu-label": "A&vançado",

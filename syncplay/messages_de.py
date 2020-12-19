@@ -305,6 +305,7 @@ de = {
     "openstreamurl-menu-label": "&Stream URL öffnen",
     "setmediadirectories-menu-label": "Medienverzeichnisse &auswählen",
     "loadplaylistfromfile-menu-label": "&Lade Playlist aus Datei",
+    "shuffleplaylistfromfile-menu-label": "Load and shuffle playlist from file",  # TODO: Translate
     "saveplaylisttofile-menu-label": "&Speichere Playlist in Datei",
     "exit-menu-label": "&Beenden",
     "advanced-menu-label": "&Erweitert",

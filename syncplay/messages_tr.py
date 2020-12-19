@@ -309,6 +309,7 @@ tr = {
     "openstreamurl-menu-label": "Medya akışı &URL'sini aç",
     "setmediadirectories-menu-label": "Medya di&zinlerini ayarlayın",
     "loadplaylistfromfile-menu-label": "Dosyadan oynatma &listesi yükle",
+    "shuffleplaylistfromfile-menu-label": "Load and s&huffle playlist from file",  # TODO: Translate
     "saveplaylisttofile-menu-label": "Oynatma listesini dosyaya kay&dedin",
     "exit-menu-label": "Çı&kış",
     "advanced-menu-label": "&Gelişmiş",
